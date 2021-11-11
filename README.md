@@ -1,2 +1,3 @@
 # kindle
-This is a Kindle note handler
+This is a Kindle note hander
+second gedit
