@@ -1,22 +1,4 @@
-# kindle
-This is a Kindle note hander
-second line 
-add try 
-
-
-
-
-aasdasdd
-
-
-
-
-
-
-
-
-
-
-
-
-asdasd
+# 说明
+这是一个kindle 处理程序
+# 使用方法
+KMP算法 
